@@ -1,4 +1,4 @@
-**CAMPUS - Chapter 3: In School System**
+#**CAMPUS - Chapter 3: In School System**
 This repository is part of CAMPUS, a comprehensive platform designed to support various stages of the Student Development Life Cycle. CAMPUS is structured into multiple chapters, each addressing different aspects of student life.
 
 About This Repository
